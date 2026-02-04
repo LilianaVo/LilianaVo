@@ -7,7 +7,7 @@
   ### 👩‍💻 Senior Computer Engineering Student @ FI UNAM 🇲🇽
 
   <p align="center">
-    <img src="https://i.pinimg.com/originals/99/80/8d/99808d92f86eaf8fc6291ec589f2503b.gif" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Project+Management+Lover+%F0%9F%93%8A;Future+Tech+Lead+%F0%9F%91%91" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -15,10 +15,10 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/ileana-lee/">
+    <a href="https://www.linkedin.com/in/tu-usuario-linkedin">
       <img src="https://img.shields.io/badge/Connect_on-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1" alt="LinkedIn" />
     </a>
-    <a href="mailto:ileana.lee22@gmail.com">
+    <a href="mailto:tu-correo@ejemplo.com">
       <img src="https://img.shields.io/badge/Send_me_an-Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EE82EE" alt="Email" />
     </a>
   </p>
