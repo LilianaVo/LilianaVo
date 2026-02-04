@@ -64,10 +64,11 @@ When I'm not studying secure architectures, you can find me:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LilianaVo&show_icons=true&theme=synthwave&hide_border=true&count_private=true&title_color=ff69b4&icon_color=ffb6c1" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianaVo&layout=compact&theme=synthwave&hide_border=true&title_color=ff69b4" height="160" alt="languages graph" />
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=LilianaVo&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilianaVo&layout=compact&theme=synthwave&hide_border=true)
+
+---
 
 <div align="center">
  🎀 <i>Thanks for visiting my profile!</i> 🎀
