@@ -9,7 +9,6 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Project+Management+Lover+%F0%9F%93%8A;Future+Tech+Lead+%F0%9F%91%91" alt="Typing SVG" />
   </p>
-![99808d92f86eaf8fc6291ec589f2503b](https://github.com/user-attachments/assets/35adcfd9-f476-4478-b41b-c28c70d92ce2)
 
   <p align="center">
     <i>"Bridging technical security with strategic leadership ✨"</i>
