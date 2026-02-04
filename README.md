@@ -15,10 +15,10 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/tu-usuario-linkedin">
+    <a href="https://www.linkedin.com/in/ileana-lee/">
       <img src="https://img.shields.io/badge/Connect_on-LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=FFB6C1" alt="LinkedIn" />
     </a>
-    <a href="mailto:tu-correo@ejemplo.com">
+    <a href="mailto:ileana.lee22@gmail.com">
       <img src="https://img.shields.io/badge/Send_me_an-Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EE82EE" alt="Email" />
     </a>
   </p>
