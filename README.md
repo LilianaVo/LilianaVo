@@ -7,7 +7,7 @@
   ### 👩‍💻 Senior Computer Engineering Student @ FI UNAM 🇲🇽
 
   <p align="center">
-    <img src="![99808d92f86eaf8fc6291ec589f2503b](https://github.com/user-attachments/assets/50ee7843-be12-4217-a4b5-165f6492652b)" alt="Typing SVG" />
+    <img src="https://i.pinimg.com/originals/99/80/8d/99808d92f86eaf8fc6291ec589f2503b.gif" alt="Typing SVG" />
   </p>
 
   <p align="center">
