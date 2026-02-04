@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/99/80/8d/99808d92f86eaf8fc6291ec589f2503b.gif" width="100%" style="border-radius: 15px;" alt="Cyber Pixel City" />
+  <img src="https://github.com/user-attachments/assets/f9ae7a24-55e5-4a5a-af1d-a168f7672c4c.gif" width="100%" style="border-radius: 15px;" alt="Cyber Pixel City" />
 
   <h1 align="center">🌸 Hi there! I'm Ileana 🌸</h1>
 
