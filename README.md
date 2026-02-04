@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk1Z3ZwaTJwMmh4Z3V6c3B2dG51eGZ4eWJqZWh2dGZ6c3B2dG51eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPuW7ZgZgZgZgZg/giphy.gif" width="100%" style="border-radius: 15px;" alt="Aesthetic GIF" />
+  <img src="https://i.pinimg.com/originals/99/80/8d/99808d92f86eaf8fc6291ec589f2503b.gif" width="100%" style="border-radius: 15px;" alt="Cyber Pixel City" />
 
   <h1 align="center">🌸 Hi there! I'm Ileana 🌸</h1>
 
