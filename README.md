@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <i>"Bridging technical security with strategic leadership... with a touch of pink! ✨"</i>
+    <i>"Bridging technical security with strategic leadership ✨"</i>
   </p>
 
   <p align="center">
