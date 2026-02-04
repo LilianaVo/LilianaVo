@@ -30,9 +30,9 @@
 
 ---
 
-### 🦋 About Me 🇳🇮🇹🇼
+### 🦋 About Me
 
-I'm a **23-year-old** final-year student at **UNAM's Faculty of Engineering**, passionate about the intersection of **Cybersecurity** and **Technical Project Management**. I love the idea of leading teams to build software that is not just efficient, but fundamentally secure and robust.
+I'm a **23-year-old** final-year student at **UNAM's Faculty of Engineering**, passionate about **Cybersecurity** and **Technical Project Management**. I love the idea of leading teams to build software that is not just efficient, but fundamentally secure and robust.
 
 * 🔭 **Current Focus:** Seeking new challenges and opportunities in **Cybersecurity & IT Management**.
 * 🌱 **Learning:** Diving deep into **DevSecOps** pipelines, **Cloud Security**, and **Agile Leadership**.
