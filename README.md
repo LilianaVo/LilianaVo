@@ -64,11 +64,10 @@ When I'm not studying secure architectures, you can find me:
 
 <div align="center">
   <br/>
-  <h3>🚀 Let's build something secure & amazing together!</h3>
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ4eWJqZWh2dGZ6c3B2dG51eGZ4eWJqZWh2dGZ6c3B2dG51eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ld0Inj7pB5C9y/giphy.gif" width="100" alt="Cute Computer Sticker" />
+  <img src="https://github.com/user-attachments/assets/447b934a-cce5-401a-bbd5-226554b7aa06" width="100%" style="border-radius: 15px;" alt="Aesthetic Anime Closing GIF" />
   
   <p>
     🎀 <i>Thanks for visiting my profile!</i> 🎀
   </p>
 </div>
+
