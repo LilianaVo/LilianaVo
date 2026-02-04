@@ -11,10 +11,10 @@
   </p>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/tu-usuario-linkedin">
+    <a href="https://www.linkedin.com/in/ileana-lee/">
       <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:tu-correo@ejemplo.com">
+    <a href="ileana.lee22@gmail.com">
       <img src="https://img.shields.io/badge/Email-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
