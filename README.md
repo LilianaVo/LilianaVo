@@ -64,7 +64,7 @@ When I'm not studying secure architectures, you can find me:
 
 <div align="center">
   <br/>
-  <img src="https://github.com/user-attachments/assets/447b934a-cce5-401a-bbd5-226554b7aa06" width="100%" style="border-radius: 15px;" alt="Aesthetic Anime Closing GIF" />
+  <img src="https://github.com/user-attachments/assets/447b934a-cce5-401a-bbd5-226554b7aa06" width="300" alt="Pusheen Pixel Art" />
   
   <p>
     🎀 <i>Thanks for visiting my profile!</i> 🎀
