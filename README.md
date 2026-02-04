@@ -26,7 +26,7 @@
 
 ---
 
-### ✨ About Me
+### 🪼 About Me
 
 I'm a final-year student at **UNAM's Faculty of Engineering**, passionate about the intersection of **Cybersecurity** and **Technical Project Management**. I love the idea of leading teams to build software that is not just efficient, but fundamentally secure and robust.
 
