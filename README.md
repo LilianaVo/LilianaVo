@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/u4oi699CsX1e0/giphy.gif" width="100%" style="border-radius: 15px;" alt="Aesthetic Pixel Art" />
+  <img src="https://github.com/user-attachments/assets/5ef2fde0-bb56-47bc-850e-572c93018ee2" width="100%" style="border-radius: 15px;" alt="My Aesthetic Header" />
 
   <h1 align="center">🌸 Hi there! I'm Ileana 🌸</h1>
 
