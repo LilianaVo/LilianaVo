@@ -42,7 +42,7 @@ When I'm not studying secure architectures, you can find me:
 
 * 🎮 **Gaming:** Relaxing with console games (Nintendo Switch/PlayStation).
 * 📺 **Binge-watching:** Getting lost in Sci-Fi and Adventure series & movies.
-* 🍰 **Baking:** Whipping up delicious desserts in the kitchen! 🧁
+* 🍰 **Baking:** Exploring the art of pastry and experimenting with new recipes. 🧁
 * 👾 **Geeking out:** Exploring new tech trends and aesthetic setups.
 
 ---
