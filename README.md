@@ -62,14 +62,13 @@ When I'm not studying secure architectures, you can find me:
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LilianaVo&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilianaVo&layout=compact&theme=synthwave&hide_border=true)
-
----
-
 <div align="center">
- 🎀 <i>Thanks for visiting my profile!</i> 🎀
+  <br/>
+  <h3>🚀 Let's build something secure & amazing together!</h3>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZ4eWJqZWh2dGZ6c3B2dG51eGZ4eWJqZWh2dGZ6c3B2dG51eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ld0Inj7pB5C9y/giphy.gif" width="100" alt="Cute Computer Sticker" />
+  
+  <p>
+    🎀 <i>Thanks for visiting my profile!</i> 🎀
+  </p>
 </div>
