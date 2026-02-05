@@ -15,7 +15,7 @@
   </p>
 
   <p align="center">
-    <i>"Bridging technical security with strategic leadership ✨"</i>
+    <i>"Bridging technical security with strategic leadership"</i>
   </p>
 
   <p align="center">
