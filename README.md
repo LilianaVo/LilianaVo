@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/5ef2fde0-bb56-47bc-850e-572c93018ee2" width="100%" style="border-radius: 15px;" alt="My Aesthetic Header" />
+  <img src="https://github.com/user-attachments/assets/d65d0763-eb31-473b-ae59-0ba6b48455ed" width="100%" style="border-radius: 15px;" alt="My Aesthetic Header" />
 
   <h1 align="center"> Hi there! I'm Ileana </h1>
 
