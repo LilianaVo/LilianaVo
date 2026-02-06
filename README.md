@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/d65d0763-eb31-473b-ae59-0ba6b48455ed" width="100%" style="border-radius: 15px;" alt="My Aesthetic Header" />
+  <img src="https://github.com/user-attachments/assets/f1577cee-87e3-4340-a843-2d1d06543c6b" width="100%" style="border-radius: 15px;" alt="Cybersecurity Header" />
 
   <h1 align="center"> Hi there! I'm Ileana </h1>
 
@@ -12,7 +12,7 @@
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Project+Management+Lover;Future+Tech+Lead" alt="Typing SVG" />
-</p>
+  </p>
 
   <p align="center">
     <i style="color: #6495ED;">"Bridging technical security with strategic leadership"</i>
