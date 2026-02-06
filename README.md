@@ -30,7 +30,7 @@
 
 ---
 
-### About Me
+### 💠 About Me
 
 I'm a **23-year-old** final-year student at **UNAM's Faculty of Engineering**, passionate about **Cybersecurity** and **Technical Project Management**. I love the idea of leading teams to build software that is not just efficient, but fundamentally secure and robust.
 
@@ -57,7 +57,7 @@ I'm a **23-year-old** final-year student at **UNAM's Faculty of Engineering**, p
 
 <div align="center">
   <br/>
-  <img src="https://github.com/user-attachments/assets/447b934a-cce5-401a-bbd5-226554b7aa06" width="300" alt="Pusheen Pixel Art" />
+  <img src="https://github.com/user-attachments/assets/24db0aa4-e698-4e3f-a932-535046f06e3d" width="350" alt="Pixel Art Cat" />
   
   <p>
       <i style="color: #9370DB;">Thanks for visiting my profile!</i> 
