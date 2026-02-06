@@ -36,11 +36,11 @@ I'm a **23-year-old** final-year student at **UNAM's Faculty of Engineering**, p
 
 * **Current Focus:** Seeking new challenges and opportunities in **Cybersecurity & IT Management**.
 * **Learning:** Diving deep into **DevSecOps** pipelines, **Cloud Security**, and **Agile Leadership**.
-* 💡 **Goal:** To become a Project Manager who bridges the gap between technical security and business strategy.
+* **Goal:** To become a Project Manager who bridges the gap between technical security and business strategy.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black" height="30" />
