@@ -2,7 +2,7 @@
 
   <img src="https://github.com/user-attachments/assets/5ef2fde0-bb56-47bc-850e-572c93018ee2" width="100%" style="border-radius: 15px;" alt="My Aesthetic Header" />
 
-  <h1 align="center">🌸 Hi there! I'm Ileana 🌸</h1>
+  <h1 align="center"> Hi there! I'm Ileana </h1>
 
   ### Senior Computer Engineering Student @ FI UNAM 🇲🇽
 
@@ -71,7 +71,7 @@ When I'm not studying secure architectures, you can find me:
   <img src="https://github.com/user-attachments/assets/447b934a-cce5-401a-bbd5-226554b7aa06" width="300" alt="Pusheen Pixel Art" />
   
   <p>
-    🎀 <i>Thanks for visiting my profile!</i> 🎀
+     <i>Thanks for visiting my profile!</i> 
   </p>
 </div>
 
