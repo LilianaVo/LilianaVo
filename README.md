@@ -8,6 +8,8 @@
 
 <b>Final-year student • Mexico City</b>
 
+<p align="center"> <b>23 y/o • <img src="https://flagcdn.com/24x18/ni.png" alt="Nicaragua" style="vertical-align: middle;"> <img src="https://flagcdn.com/24x18/tw.png" alt="Taiwan" style="vertical-align: middle;"> • Mexico City </b> </p>
+
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Development+Enthusiast;Python+Automation;Always+Learning+New+Things" />
 </p>
@@ -26,7 +28,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a final-year **Computer Engineering student at UNAM's Faculty of Engineering**.  
 I enjoy building software projects and learning how systems work behind the scenes.
@@ -42,7 +44,7 @@ I'm currently looking for opportunities to grow as a **Junior Developer** and co
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -62,7 +64,7 @@ I'm currently looking for opportunities to grow as a **Junior Developer** and co
 
 ---
 
-## 📂 What you'll find here
+## What you'll find here
 
 On this profile you'll find some of my **engineering and university projects**, including:
 
