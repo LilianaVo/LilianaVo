@@ -6,9 +6,7 @@
 
 ### Computer Engineering Student @ UNAM 🇲🇽
 
-<b>Final-year student • Mexico City</b>
-
-<p align="center"> <b>23 y/o • <img src="https://flagcdn.com/24x18/ni.png" alt="Nicaragua" style="vertical-align: middle;"> <img src="https://flagcdn.com/24x18/tw.png" alt="Taiwan" style="vertical-align: middle;"> • Mexico City </b> </p>
+<b>Final-year student • <img src="https://flagcdn.com/24x18/ni.png" alt="Nicaragua" style="vertical-align: middle;"> <img src="https://flagcdn.com/24x18/tw.png" alt="Taiwan" style="vertical-align: middle;"> • Mexico City</b>
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Development+Enthusiast;Python+Automation;Always+Learning+New+Things" />
