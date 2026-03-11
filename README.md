@@ -1,65 +1,82 @@
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/f1577cee-87e3-4340-a843-2d1d06543c6b" width="100%" style="border-radius: 15px;" alt="Cybersecurity Header" />
+<img src="https://github.com/user-attachments/assets/f1577cee-87e3-4340-a843-2d1d06543c6b" width="100%" style="border-radius: 15px;" alt="Header" />
 
-  <h1 align="center"> Hi there! I'm Ileana </h1>
+<h1>Hi! I'm Ileana 👋</h1>
 
-  ### Computer Engineering Student @ FI UNAM 🇲🇽
+### Computer Engineering Student @ UNAM 🇲🇽
 
-  <p align="center">
-    <b>23 y/o • <img src="https://flagcdn.com/24x18/ni.png" alt="Nicaragua" style="vertical-align: middle;"> <img src="https://flagcdn.com/24x18/tw.png" alt="Taiwan" style="vertical-align: middle;"> • Mexico City </b>
-  </p>
+<b>Final-year student • Mexico City</b>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Project+Management+Lover;Future+Tech+Lead" alt="Typing SVG" />
-  </p>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9370DB&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Web+Development+Enthusiast;Python+Automation;Always+Learning+New+Things" />
+</p>
 
-  <p align="center">
-    <i style="color: #6495ED;">"Bridging technical security with strategic leadership"</i>
-  </p>
+<p>
+<a href="https://www.linkedin.com/in/ileana-lee">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/tu-usuario-linkedin">
-      <img src="https://img.shields.io/badge/Connect_on-LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6A5ACD" alt="LinkedIn" />
-    </a>
-    <a href="mailto:tu-correo@ejemplo.com">
-      <img src="https://img.shields.io/badge/Send_me_an-Email-00008B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4169E1" alt="Email" />
-    </a>
-  </p>
+<a href="mailto:ileana.lee22@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-4169E1?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 </div>
 
 ---
 
-### 🌌 About Me
+## 👩‍💻 About Me
 
-I'm a **23-year-old** final-year student at **UNAM's Faculty of Engineering**, passionate about **Cybersecurity** and **Technical Project Management**. I love the idea of leading teams to build software that is not just efficient, but fundamentally secure and robust.
+I'm a final-year **Computer Engineering student at UNAM's Faculty of Engineering**.  
+I enjoy building software projects and learning how systems work behind the scenes.
 
-* **Current Focus:** Seeking new challenges and opportunities in **Cybersecurity & IT Management**.
-* **Learning:** Diving deep into **DevSecOps** pipelines, **Cloud Security**, and **Agile Leadership**.
-* **Goal:** To become a Project Manager who bridges the gap between technical security and business strategy.
+My interests include:
+
+- 🌐 **Web development**
+- 🐍 **Python automation**
+- 🗄 **Databases and data management**
+- 🔐 **Information security fundamentals**
+
+I'm currently looking for opportunities to grow as a **Junior Developer** and contribute to real-world projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/C++-00008B?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Cybersecurity-6A5ACD?style=for-the-badge&logo=security&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-483D8B?style=for-the-badge&logo=docker&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Git-191970?style=for-the-badge&logo=git&logoColor=white" height="30" />
-  <img src="https://img.shields.io/badge/Project_Mgmt-Jira-00BFFF?style=for-the-badge&logo=jira&logoColor=white" height="30" />
+
+<img src="https://img.shields.io/badge/Python-4B0082?style=for-the-badge&logo=python&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Java-00008B?style=for-the-badge&logo=java&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/C++-4169E1?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/SQL-483D8B?style=for-the-badge&logo=mysql&logoColor=white" height="30"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML-191970?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/CSS-6A5ACD?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Git-00008B?style=for-the-badge&logo=git&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Linux-4B0082?style=for-the-badge&logo=linux&logoColor=white" height="30"/>
+
 </div>
 
 ---
 
+## 📂 What you'll find here
+
+On this profile you'll find some of my **engineering and university projects**, including:
+
+- Cryptography experiments
+- Web applications
+- Distributed systems projects
+- Python automation scripts
+
+---
+
 <div align="center">
-  <br/>
-  <img src="https://github.com/user-attachments/assets/24db0aa4-e698-4e3f-a932-535046f06e3d" width="350" alt="Pixel Art Cat" />
-  
-  <p>
-      <i style="color: #9370DB;">Thanks for visiting my profile!</i> 
-  </p>
+
+<img src="https://github.com/user-attachments/assets/24db0aa4-e698-4e3f-a932-535046f06e3d" width="350"/>
+
+<i>Thanks for visiting my profile!</i>
+
 </div>
