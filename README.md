@@ -4,7 +4,7 @@
 
   <h1 align="center"> Hi there! I'm Ileana </h1>
 
-  ### Senior Computer Engineering Student @ FI UNAM 🇲🇽
+  ### Computer Engineering Student @ FI UNAM 🇲🇽
 
   <p align="center">
     <b>23 y/o • <img src="https://flagcdn.com/24x18/ni.png" alt="Nicaragua" style="vertical-align: middle;"> <img src="https://flagcdn.com/24x18/tw.png" alt="Taiwan" style="vertical-align: middle;"> • Mexico City </b>
