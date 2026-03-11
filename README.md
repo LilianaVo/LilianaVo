@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/f1577cee-87e3-4340-a843-2d1d06543c6b" width="100%" style="border-radius: 15px;" alt="Header" />
 
-<h1>Hi! I'm Ileana 👋</h1>
+<h1>Hi! I'm Ileana 🐈</h1>
 
 ### Computer Engineering Student @ UNAM 🇲🇽
 
