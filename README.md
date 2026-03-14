@@ -33,10 +33,10 @@ I enjoy building software projects and learning how systems work behind the scen
 
 My interests include:
 
-- 🌐 **Web development**
-- 🐍 **Python automation**
-- 🗄 **Databases and data management**
-- 🔐 **Information security fundamentals**
+- **Web development**
+- **Python automation**
+- **Databases and data management**
+- **Information security fundamentals**
 
 I'm currently looking for opportunities to grow as a **Junior Developer** and contribute to real-world projects.
 
