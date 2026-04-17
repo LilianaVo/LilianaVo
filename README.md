@@ -4,7 +4,7 @@
 
 <h1>Hi! I'm Ileana 🐈</h1>
 
-### Computer Engineering Student @ UNAM 🇲🇽
+### Computer Engineering Student - UNAM
 
 <b>Final-year student • <img src="https://flagcdn.com/24x18/ni.png" alt="Nicaragua" style="vertical-align: middle;"> <img src="https://flagcdn.com/24x18/tw.png" alt="Taiwan" style="vertical-align: middle;"> • Mexico City</b>
 
