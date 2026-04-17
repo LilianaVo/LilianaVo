@@ -29,7 +29,6 @@
 ## About Me
 
 I'm a final-year **Computer Engineering student at UNAM's Faculty of Engineering**.  
-I enjoy building software projects and learning how systems work behind the scenes.
 
 My interests include:
 
@@ -38,7 +37,6 @@ My interests include:
 - **Databases and data management**
 - **Information security fundamentals**
 
-I'm currently looking for opportunities to grow as a **Junior Developer** and contribute to real-world projects.
 
 ---
 
@@ -59,17 +57,6 @@ I'm currently looking for opportunities to grow as a **Junior Developer** and co
 <img src="https://img.shields.io/badge/Linux-4B0082?style=for-the-badge&logo=linux&logoColor=white" height="30"/>
 
 </div>
-
----
-
-## What you'll find here
-
-On this profile you'll find some of my **engineering and university projects**, including:
-
-- Cryptography experiments
-- Web applications
-- Distributed systems projects
-- Python automation scripts
 
 ---
 
