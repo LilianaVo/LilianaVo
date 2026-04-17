@@ -24,21 +24,6 @@
 
 </div>
 
----
-
-## About Me
-
-I'm a final-year **Computer Engineering student at UNAM's Faculty of Engineering**.  
-
-My interests include:
-
-- **Web development**
-- **Python automation**
-- **Databases and data management**
-- **Information security fundamentals**
-
-
----
 
 ## Technologies & Tools
 
